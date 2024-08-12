@@ -55,6 +55,10 @@ Enter your choice:
 
 Contributions are welcome! Feel free to open issues and pull requests.
 
+## View fully documentation 
+
+Documentation for Library Management System.pdf
+
 
 
 
